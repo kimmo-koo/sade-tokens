@@ -1,0 +1,9 @@
+{
+  "name": "swds-tokens",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "omod": "^1.2.0"
+  }
+}
