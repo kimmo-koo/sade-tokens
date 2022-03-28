@@ -1,6 +1,4 @@
-# swds-tokens
-
-This package contains all design tokens for Showell Design System. All tokens are synced to this repo from Figma via Figma Tokens -plugin.
+# swds-toke
 
 ## Structure
 
