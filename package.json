@@ -5,12 +5,16 @@
   "license": "MIT",
   "scripts": {
     "lint": "eslint .",
-    "format": "eslint --fix ."
+    "format": "eslint --fix .",
+    "prebuild": "npx token-transformer data/tokens.json temp/global.json global --expandTypography=true --expandShadow=true  --throwErrorWhenNotResolved=true",
+    "build": "node scripts/build.js"
   },
   "devDependencies": {
     "eslint": "^8.11.0",
     "fs-extra": "^10.0.1",
     "omod": "^1.2.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "style-dictionary": "^3.7.0"
+  }
 }
