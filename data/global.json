@@ -129,7 +129,7 @@
         }
       }
     },
-    "shadows": {
+    "shadow": {
       "card": {
         "value": {
           "x": "0",
@@ -866,16 +866,30 @@
       }
     }
   },
-  "$themes": [
-    {
-      "id": "a4448029f1f8e6399adfa1b3b39bf6b7769da4a0",
-      "name": "Oma Sanoma Default",
-      "selectedTokenSets": {
-        "global": "enabled",
-        "Sanoma": "enabled",
-        "test": "disabled"
+  "$themes": {
+    "0": {
+      "id": {
+        "value": "a4448029f1f8e6399adfa1b3b39bf6b7769da4a0",
+        "type": "other"
       },
-      "$figmaStyleReferences": {}
+      "name": {
+        "value": "Oma Sanoma Default",
+        "type": "other"
+      },
+      "selectedTokenSets": {
+        "global": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "Sanoma": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "test": {
+          "value": "disabled",
+          "type": "other"
+        }
+      }
     }
-  ]
+  }
 }
