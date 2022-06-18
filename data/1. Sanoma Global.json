@@ -100,26 +100,6 @@
         "type": "fontSizes"
       }
     },
-    "letterSpacing": {
-      "0": {
-        "value": "0%",
-        "type": "letterSpacing"
-      },
-      "1": {
-        "value": "0.05%",
-        "type": "letterSpacing"
-      },
-      "2": {
-        "value": "0.06%",
-        "type": "letterSpacing"
-      }
-    },
-    "paragraphSpacing": {
-      "0": {
-        "value": "0",
-        "type": "paragraphSpacing"
-      }
-    },
     "rounding": {
       "5": {
         "value": "2",
@@ -599,18 +579,6 @@
         }
       }
     },
-    "textCase": {
-      "none": {
-        "value": "none",
-        "type": "textCase"
-      }
-    },
-    "textDecoration": {
-      "none": {
-        "value": "none",
-        "type": "textDecoration"
-      }
-    },
     "border": {
       "10": {
         "value": "1",
@@ -632,6 +600,26 @@
         "value": "5",
         "type": "borderWidth"
       }
+    }
+  },
+  "letterSpacing": {
+    "0": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "1": {
+      "value": "0.05%",
+      "type": "letterSpacing"
+    },
+    "2": {
+      "value": "0.06%",
+      "type": "letterSpacing"
+    }
+  },
+  "paragraphSpacing": {
+    "0": {
+      "value": "0",
+      "type": "paragraphSpacing"
     }
   },
   "spacing": {
@@ -696,6 +684,18 @@
       "type": "spacing"
     }
   },
+  "textCase": {
+    "none": {
+      "value": "none",
+      "type": "textCase"
+    }
+  },
+  "textDecoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
   "sizing": {
     "mobile": {
       "100": {
@@ -723,68 +723,6 @@
       "300": {
         "value": "24px",
         "type": "sizing"
-      }
-    }
-  },
-  "Sanoma semantic light": {
-    "color": {
-      "highlight": {
-        "value": "{color.primary.50}",
-        "type": "color"
-      }
-    }
-  },
-  "Sanoma semantic dark": {
-    "color": {
-      "highlight": {
-        "value": "{color.secondary.50}",
-        "type": "color"
-      }
-    }
-  },
-  "Sanoma components": {
-    "color": {
-      "background": {
-        "switch": {
-          "default": {
-            "value": "{color.highlight}",
-            "type": "color"
-          }
-        }
-      },
-      "border": {
-        "switch": {
-          "active": {
-            "value": "{color.highlight}",
-            "type": "color"
-          }
-        }
-      }
-    }
-  },
-  "$themes": {
-    "0": {
-      "id": {
-        "value": "a4448029f1f8e6399adfa1b3b39bf6b7769da4a0",
-        "type": "other"
-      },
-      "name": {
-        "value": "Oma Sanoma Default",
-        "type": "other"
-      },
-      "selectedTokenSets": {
-        "Sanoma global": {
-          "value": "source",
-          "type": "other"
-        },
-        "Sanoma semantic light": {
-          "value": "enabled",
-          "type": "other"
-        },
-        "Sanoma components": {
-          "value": "enabled",
-          "type": "other"
-        }
       }
     }
   }
