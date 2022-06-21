@@ -1,1 +1,24 @@
-{}
+{
+  "color": {
+    "background": {
+      "button": {
+        "primary": {
+          "default": {
+            "value": "{color.accent.background}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "text": {
+      "button": {
+        "primary": {
+          "default": {
+            "value": "{color.accent.foreground}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
