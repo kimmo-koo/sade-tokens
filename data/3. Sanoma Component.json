@@ -6,6 +6,14 @@
           "default": {
             "value": "{color.cta.default}",
             "type": "color"
+          },
+          "hover": {
+            "value": "{color.cta.emphasized}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.cta.disabled}",
+            "type": "color"
           }
         }
       }
