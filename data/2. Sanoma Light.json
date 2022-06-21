@@ -1,16 +1,12 @@
 {
   "color": {
-    "foreground": {
-      "muted": {
-        "value": "{color.primary.25}",
+    "accent": {
+      "background": {
+        "value": "{color.primary.50}",
         "type": "color"
       },
-      "subtle": {
-        "value": "{color.primary.10}",
-        "type": "color"
-      },
-      "default": {
-        "value": "{color.primary.75}",
+      "foreground": {
+        "value": "{color.greyscale.0}",
         "type": "color"
       }
     }
