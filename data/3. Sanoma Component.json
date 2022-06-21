@@ -4,7 +4,7 @@
       "button": {
         "primary": {
           "default": {
-            "value": "{color.accent.background}",
+            "value": "{color.cta.default}",
             "type": "color"
           }
         }
@@ -14,7 +14,7 @@
       "button": {
         "primary": {
           "default": {
-            "value": "{color.accent.foreground}",
+            "value": "{color.fg.accent}",
             "type": "color"
           }
         }

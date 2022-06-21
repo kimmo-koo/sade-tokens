@@ -12,6 +12,10 @@
       "subtle": {
         "value": "{color.greyscale.50}",
         "type": "color"
+      },
+      "accent": {
+        "value": "{color.greyscale.0}",
+        "type": "color"
       }
     },
     "bg": {
