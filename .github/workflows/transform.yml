@@ -1,7 +1,7 @@
 name: Transform Figma Tokens to CSS using Style Dictionary
 
 # Controls when the workflow will run
-on: [push, pull request]
+on: [pull request]
 
 permissions: write-all
 
