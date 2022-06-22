@@ -729,7 +729,7 @@
     },
     "massive": {
       "test": {
-        "value": "1000px",
+        "value": "2000px",
         "type": "sizing"
       }
     }
