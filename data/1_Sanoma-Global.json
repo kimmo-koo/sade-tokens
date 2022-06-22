@@ -731,6 +731,10 @@
       "test": {
         "value": "2000px",
         "type": "sizing"
+      },
+      "testtoo": {
+        "value": "50",
+        "type": "sizing"
       }
     }
   }
