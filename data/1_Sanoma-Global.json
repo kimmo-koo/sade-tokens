@@ -725,6 +725,10 @@
       "300": {
         "value": "24px",
         "type": "sizing"
+      },
+      "400": {
+        "value": "32",
+        "type": "sizing"
       }
     }
   }
