@@ -715,9 +715,17 @@
       "400": {
         "value": "40",
         "type": "sizing"
+      },
+      "500": {
+        "value": "50",
+        "type": "sizing"
       }
     },
     "desktop": {
+      "50": {
+        "value": "40px",
+        "type": "sizing"
+      },
       "100": {
         "value": "8",
         "type": "sizing"
