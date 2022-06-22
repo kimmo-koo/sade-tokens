@@ -1,13 +1,13 @@
 {
   "name": "sade-tokens",
   "version": "0.0.1",
+  "description": "Transform tokens from FT plugin to CSS",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "lint": "eslint .",
     "format": "eslint --fix .",
-    "prebuild": "npx token-transformer data/tokens.json temp/global.json global --expandTypography=true --expandShadow=true  --throwErrorWhenNotResolved=true",
-    "build": "node scripts/build.js"
+    "transformToCSS": "node transformToCSS.js"
   },
   "devDependencies": {
     "eslint": "^8.18.0"
