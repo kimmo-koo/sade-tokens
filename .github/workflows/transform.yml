@@ -21,9 +21,7 @@ jobs:
       # Transform to CSS with SD
       - run: npm run transformToCSS
 
-      # Give write access to repo
-      - run: sudo chown -R $USER:$USER ${{ github.workspace }}
-
+    
       - name: Commit the changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
