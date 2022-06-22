@@ -5,12 +5,12 @@
         "value": "{color.greyscale.90}",
         "type": "color"
       },
-      "muted": {
-        "value": "{color.greyscale.70}",
+      "subtle": {
+        "value": "{color.greyscale.80}",
         "type": "color"
       },
-      "subtle": {
-        "value": "{color.greyscale.50}",
+      "muted": {
+        "value": "{color.greyscale.60}",
         "type": "color"
       },
       "accent": {
@@ -23,12 +23,12 @@
         "value": "{color.greyscale.0}",
         "type": "color"
       },
-      "muted": {
-        "value": "{color.greyscale.40}",
-        "type": "color"
-      },
       "subtle": {
         "value": "{color.greyscale.20}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.greyscale.40}",
         "type": "color"
       }
     },
