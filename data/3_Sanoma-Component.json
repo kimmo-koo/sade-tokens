@@ -24,6 +24,10 @@
           "default": {
             "value": "{color.fg.accent}",
             "type": "color"
+          },
+          "hover": {
+            "value": "{color.fg.accent}",
+            "type": "color"
           }
         }
       }
