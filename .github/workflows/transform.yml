@@ -1,4 +1,4 @@
-ame: Transform Figma Tokens to CSS using Style Dictionary
+name: Transform Figma Tokens to CSS using Style Dictionary
 
 # Controls when the workflow will run
 on: [push, pull_request]
