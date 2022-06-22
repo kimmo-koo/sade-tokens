@@ -260,7 +260,7 @@ function convertToSafeThemeName(themeName) {
   return safeName;
 }
 
-const configBlob = fs.readFileSync('sd_config.json');
+const configBlob = fs.readFileSync('tokens-config.json');
 const config = JSON.parse(configBlob);
 const dirPath = config.tokenSetsDirPath;
 const themeMetaBlob = fs.readFileSync(config.tokenSetsThemeMetaPath);
