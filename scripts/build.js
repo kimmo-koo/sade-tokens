@@ -1,3 +1,5 @@
+// NOTICE! This script is deprecated in favour of transformToCSS.js (enables token set theming)
+
 const StyleDictionaryPackage = require("style-dictionary");
 
 // Return config based on brand name

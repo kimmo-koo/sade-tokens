@@ -1,0 +1,7 @@
+{
+    "tokenSetsDirPath": "data",
+    "tokenSetsPath": "data/**/*.json",
+    "tokenSetsThemeMetaPath": "./data/$themes.json",
+    "owner": "Kimmo Kuisma",
+    "repo": "headless-ds-tokens"
+  }

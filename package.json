@@ -10,11 +10,13 @@
     "build": "node scripts/build.js"
   },
   "devDependencies": {
-    "eslint": "^8.11.0",
-    "fs-extra": "^10.0.1",
-    "omod": "^1.2.0"
+    "eslint": "^8.18.0"
   },
   "dependencies": {
+    "color2k": "^2.0.0",
+    "expr-eval": "^2.0.2",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
     "style-dictionary": "^3.7.0"
   }
 }
