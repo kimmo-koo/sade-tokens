@@ -3,10 +3,10 @@
     "id": "f0ec7728995d7116be0697e8e4db50bd60aaff2b",
     "name": "Sanoma Dark",
     "selectedTokenSets": {
-      "1. Sanoma Global": "source",
-      "3. Sanoma Component": "enabled",
-      "2. Sanoma Dark": "enabled",
-      "2. Sanoma Light": "disabled"
+      "1_Sanoma-Global": "source",
+      "2_Sanoma-Dark": "enabled",
+      "2_Sanoma-Light": "disabled",
+      "3_Sanoma-Component": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -14,10 +14,10 @@
     "id": "88681b17a06c1688ac41f55b615b2ad06e92a650",
     "name": "Sanoma Light",
     "selectedTokenSets": {
-      "1. Sanoma Global": "source",
-      "3. Sanoma Component": "enabled",
-      "2. Sanoma Dark": "disabled",
-      "2. Sanoma Light": "enabled"
+      "1_Sanoma-Global": "source",
+      "2_Sanoma-Dark": "disabled",
+      "2_Sanoma-Light": "enabled",
+      "3_Sanoma-Component": "enabled"
     },
     "$figmaStyleReferences": {}
   }
