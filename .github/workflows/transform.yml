@@ -19,7 +19,7 @@ jobs:
       - run: npm install
 
       # Transform to CSS with SD
-      - run: npm run scripts/transformToCSS
+      - run: npm run transformToCSS
 
       # Get the Latest Tag
       - name: Get Latest Tag
