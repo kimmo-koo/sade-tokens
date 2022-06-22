@@ -700,6 +700,10 @@
   },
   "sizing": {
     "mobile": {
+      "50": {
+        "value": "5px",
+        "type": "sizing"
+      },
       "100": {
         "value": "10",
         "type": "sizing"
@@ -740,6 +744,10 @@
       },
       "400": {
         "value": "32",
+        "type": "sizing"
+      },
+      "500": {
+        "value": "40px",
         "type": "sizing"
       }
     }
