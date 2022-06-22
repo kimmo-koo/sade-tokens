@@ -726,6 +726,12 @@
         "value": "24px",
         "type": "sizing"
       }
+    },
+    "massive": {
+      "test": {
+        "value": "1000px",
+        "type": "sizing"
+      }
     }
   }
 }
