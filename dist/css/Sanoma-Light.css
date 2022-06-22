@@ -125,6 +125,7 @@
   --radii-100: 40px;
   --text-case-none: none;
   --text-decoration-none: none;
+  --sizing-mobile-50: 5px;
   --sizing-mobile-100: 10px;
   --sizing-mobile-200: 20px;
   --sizing-mobile-300: 30px;
@@ -135,4 +136,5 @@
   --sizing-desktop-200: 16px;
   --sizing-desktop-300: 24px;
   --sizing-desktop-400: 32px;
+  --sizing-desktop-500: 40px;
 }
