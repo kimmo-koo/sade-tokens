@@ -701,29 +701,33 @@
   "sizing": {
     "mobile": {
       "100": {
-        "value": "10px",
+        "value": "10",
         "type": "sizing"
       },
       "200": {
-        "value": "20px",
+        "value": "20",
         "type": "sizing"
       },
       "300": {
-        "value": "30px",
+        "value": "30",
+        "type": "sizing"
+      },
+      "400": {
+        "value": "40",
         "type": "sizing"
       }
     },
     "desktop": {
       "100": {
-        "value": "8px",
+        "value": "8",
         "type": "sizing"
       },
       "200": {
-        "value": "16px",
+        "value": "16",
         "type": "sizing"
       },
       "300": {
-        "value": "24px",
+        "value": "24",
         "type": "sizing"
       },
       "400": {
