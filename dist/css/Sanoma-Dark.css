@@ -67,6 +67,7 @@
   --color-background-button-primary-hover: #4e72c6;
   --color-background-button-primary-disabled: #757575;
   --color-text-button-primary-default: #191919;
+  --color-text-button-primary-hover: #191919;
   --shadow-button-default: 0 0 8 0 #00000026;
   --shadow-button-lift: 0 2 16 0 #0000004d;
   --shadow-container-soft: 0 2 8 0 #0000001a;
