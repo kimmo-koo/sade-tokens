@@ -1,7 +1,7 @@
 name: Transform Figma Tokens to CSS using Style Dictionary
 
 # Controls when the workflow will run
-on: [push, pull_request]
+on: [push, pull request]
 
 permissions: write-all
 
@@ -21,7 +21,6 @@ jobs:
       # Transform to CSS with SD
       - run: npm run transformToCSS
 
-    
       - name: Commit the changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
