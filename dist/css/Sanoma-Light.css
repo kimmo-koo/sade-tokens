@@ -131,10 +131,12 @@
   --sizing-mobile-300: 30px;
   --sizing-mobile-400: 40px;
   --sizing-mobile-500: 50px;
+  --sizing-mobile-600: 60px;
   --sizing-desktop-50: 40px;
   --sizing-desktop-100: 8px;
   --sizing-desktop-200: 16px;
   --sizing-desktop-300: 24px;
   --sizing-desktop-400: 32px;
   --sizing-desktop-500: 40px;
+  --sizing-desktop-600: 48px;
 }
