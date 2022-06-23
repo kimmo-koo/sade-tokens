@@ -723,6 +723,10 @@
       "500": {
         "value": "50",
         "type": "sizing"
+      },
+      "600": {
+        "value": "60",
+        "type": "sizing"
       }
     },
     "desktop": {
@@ -748,6 +752,10 @@
       },
       "500": {
         "value": "40px",
+        "type": "sizing"
+      },
+      "600": {
+        "value": "48",
         "type": "sizing"
       }
     }
