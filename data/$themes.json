@@ -3,9 +3,9 @@
     "id": "e762a67c43e55e0dab3021da5b846cd0886bd6fc",
     "name": "Light",
     "selectedTokenSets": {
-      "Sanoma - Desktop": "enabled",
-      "Sanoma - Mobile": "disabled",
-      "Sanoma - Core": "source"
+      "Sanoma-Core": "source",
+      "Sanoma-Desktop": "enabled",
+      "Sanoma-Mobile": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -13,9 +13,9 @@
     "id": "c308e1a9e214804b8f81ddfa7621680dccb0e552",
     "name": "Dark",
     "selectedTokenSets": {
-      "Sanoma - Desktop": "enabled",
-      "Sanoma - Mobile": "disabled",
-      "Sanoma - Core": "source"
+      "Sanoma-Core": "source",
+      "Sanoma-Desktop": "enabled",
+      "Sanoma-Mobile": "disabled"
     },
     "$figmaStyleReferences": {}
   }
