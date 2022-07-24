@@ -15,10 +15,10 @@
     "id": "c308e1a9e214804b8f81ddfa7621680dccb0e552",
     "name": "Sanoma-Desktop-Light",
     "selectedTokenSets": {
-      "Sanoma-Desktop": "enabled",
+      "Sanoma-Desktop": "disabled",
       "Sanoma-Mobile": "disabled",
       "1-Sanoma-Core": "source",
-      "2-Sanoma-Semantic-Light": "disabled",
+      "2-Sanoma-Semantic-Light": "enabled",
       "3-Sanoma-Components-Desktop": "enabled"
     },
     "$figmaStyleReferences": {}

@@ -261,6 +261,14 @@
         "value": "#8a4707",
         "type": "color"
       }
+    },
+    "brand": {
+      "is": {
+        "primary": {
+          "value": "red",
+          "type": "color"
+        }
+      }
     }
   },
   "sizing": {
