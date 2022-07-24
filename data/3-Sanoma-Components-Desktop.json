@@ -1,1 +1,30 @@
-{}
+{
+  "sizing": {
+    "height": {
+      "button": {
+        "primary": {
+          "value": "{sizing.100}",
+          "type": "sizing"
+        }
+      }
+    }
+  },
+  "color": {
+    "background": {
+      "button": {
+        "primary": {
+          "value": "{color.foreground.default}",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "button": {
+        "primary": {
+          "value": "{color.background.default}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
