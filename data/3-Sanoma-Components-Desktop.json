@@ -3,7 +3,7 @@
     "height": {
       "button": {
         "primary": {
-          "value": "{sizing.100}",
+          "value": "{sizing.150}",
           "type": "sizing"
         }
       }
@@ -11,7 +11,7 @@
     "fontSize": {
       "button": {
         "primary": {
-          "value": "21",
+          "value": "{fontSize.50}",
           "type": "fontSizes"
         }
       }
@@ -47,7 +47,7 @@
     "paddingleft": {
       "button": {
         "primary": {
-          "value": "{spacing.40}",
+          "value": "{spacing.100}",
           "type": "spacing"
         }
       }
@@ -55,7 +55,7 @@
     "paddingright": {
       "button": {
         "primary": {
-          "value": "40",
+          "value": "{spacing.100}",
           "type": "spacing"
         }
       }
