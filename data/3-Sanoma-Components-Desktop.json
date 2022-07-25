@@ -1,0 +1,64 @@
+{
+  "sizing": {
+    "height": {
+      "button": {
+        "primary": {
+          "value": "{sizing.150}",
+          "type": "sizing"
+        }
+      }
+    },
+    "fontSize": {
+      "button": {
+        "primary": {
+          "value": "{fontSize.50}",
+          "type": "fontSizes"
+        }
+      }
+    }
+  },
+  "color": {
+    "background": {
+      "button": {
+        "primary": {
+          "value": "{color.foreground.default}",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "button": {
+        "primary": {
+          "value": "{color.background.default}",
+          "type": "color"
+        }
+      }
+    },
+    "border": {
+      "button": {
+        "primary": {
+          "value": "{color.foreground.default}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "spacing": {
+    "paddingleft": {
+      "button": {
+        "primary": {
+          "value": "{spacing.100}",
+          "type": "spacing"
+        }
+      }
+    },
+    "paddingright": {
+      "button": {
+        "primary": {
+          "value": "{spacing.100}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}

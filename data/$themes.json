@@ -1,23 +1,27 @@
 [
   {
-    "id": "f0ec7728995d7116be0697e8e4db50bd60aaff2b",
-    "name": "Sanoma Dark",
+    "id": "c308e1a9e214804b8f81ddfa7621680dccb0e552",
+    "name": "Sanoma-Desktop-Light",
     "selectedTokenSets": {
-      "1_Sanoma-Global": "source",
-      "2_Sanoma-Dark": "enabled",
-      "2_Sanoma-Light": "disabled",
-      "3_Sanoma-Component": "enabled"
+      "Sanoma-Desktop": "disabled",
+      "Sanoma-Mobile": "disabled",
+      "1-Sanoma-Core": "source",
+      "2-Sanoma-Semantic-Light": "enabled",
+      "3-Sanoma-Components-Desktop": "enabled",
+      "3-Sanoma-Components-Mobile": "disabled"
     },
     "$figmaStyleReferences": {}
   },
   {
-    "id": "88681b17a06c1688ac41f55b615b2ad06e92a650",
-    "name": "Sanoma Light",
+    "id": "e762a67c43e55e0dab3021da5b846cd0886bd6fc",
+    "name": "Sanoma-Mobile-Light",
     "selectedTokenSets": {
-      "1_Sanoma-Global": "source",
-      "2_Sanoma-Dark": "disabled",
-      "2_Sanoma-Light": "enabled",
-      "3_Sanoma-Component": "enabled"
+      "Sanoma-Desktop": "disabled",
+      "Sanoma-Mobile": "disabled",
+      "1-Sanoma-Core": "source",
+      "2-Sanoma-Semantic-Light": "enabled",
+      "3-Sanoma-Components-Desktop": "disabled",
+      "3-Sanoma-Components-Mobile": "enabled"
     },
     "$figmaStyleReferences": {}
   }
