@@ -21,7 +21,7 @@
     "background": {
       "button": {
         "primary": {
-          "value": "{color.foreground.default}",
+          "value": "{semantic.color.foreground.default}",
           "type": "color"
         }
       }
@@ -29,7 +29,7 @@
     "text": {
       "button": {
         "primary": {
-          "value": "{color.background.default}",
+          "value": "{semantic.color.background.default}",
           "type": "color"
         }
       }
@@ -37,7 +37,7 @@
     "border": {
       "button": {
         "primary": {
-          "value": "{color.foreground.default}",
+          "value": "{semantic.color.foreground.default}",
           "type": "color"
         }
       }

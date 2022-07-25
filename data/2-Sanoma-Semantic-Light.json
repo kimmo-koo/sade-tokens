@@ -1,23 +1,25 @@
 {
-  "color": {
-    "foreground": {
-      "dark": {
-        "value": "{color.primary.75}",
-        "type": "color"
+  "semantic": {
+    "color": {
+      "foreground": {
+        "dark": {
+          "value": "{color.primary.75}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{color.primary.50}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{color.primary.25}",
+          "type": "color"
+        }
       },
-      "default": {
-        "value": "{color.primary.50}",
-        "type": "color"
-      },
-      "light": {
-        "value": "{color.primary.25}",
-        "type": "color"
-      }
-    },
-    "background": {
-      "default": {
-        "value": "{color.greyscale.0}",
-        "type": "color"
+      "background": {
+        "default": {
+          "value": "{color.greyscale.0}",
+          "type": "color"
+        }
       }
     }
   }
