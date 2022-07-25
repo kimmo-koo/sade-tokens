@@ -44,10 +44,18 @@
     }
   },
   "spacing": {
-    "paddingX": {
+    "padding_left": {
       "button": {
         "primary": {
           "value": "{spacing.40}",
+          "type": "spacing"
+        }
+      }
+    },
+    "padding_right": {
+      "button": {
+        "primary": {
+          "value": "40",
           "type": "spacing"
         }
       }
