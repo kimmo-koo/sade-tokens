@@ -14,8 +14,6 @@
   --spacing-130: 52px;
   --spacing-140: 56px;
   --spacing-150: 60px;
-  --spacing-paddingleft-button-primary: 40px;
-  --spacing-paddingright-button-primary: 40px;
   --radii-5: 2px;
   --radii-10: 4px;
   --radii-20: 8px;
@@ -63,9 +61,6 @@
   --color-warning-50: #d66c09;
   --color-warning-75: #8a4707;
   --color-brand-is-primary: red;
-  --color-background-button-primary: #104bd5;
-  --color-text-button-primary: #ffffff;
-  --color-border-button-primary: #104bd5;
   --sizing-0: 8px;
   --sizing-10: 16px;
   --sizing-20: 24px;
@@ -83,8 +78,6 @@
   --sizing-140: 120px;
   --sizing-150: 60px;
   --sizing-200: 80px;
-  --sizing-height-button-primary: 60px;
-  --sizing-font-size-button-primary: 20px;
   --font-families-message: The Message;
   --font-families-roboto: Roboto;
   --line-heights-10: 20;
@@ -131,4 +124,11 @@
   --semantic-color-foreground-default: #104bd5;
   --semantic-color-foreground-light: #4e72c6;
   --semantic-color-background-default: #ffffff;
+  --component-sizing-height-button-primary: 60px;
+  --component-sizing-font-size-button-primary: 20px;
+  --component-color-background-button-primary: #104bd5;
+  --component-color-text-button-primary: #ffffff;
+  --component-color-border-button-primary: #104bd5;
+  --component-spacing-paddingleft-button-primary: 40px;
+  --component-spacing-paddingright-button-primary: 40px;
 }
