@@ -7,6 +7,14 @@
           "type": "sizing"
         }
       }
+    },
+    "fontSize": {
+      "button": {
+        "primary": {
+          "value": "21",
+          "type": "fontSizes"
+        }
+      }
     }
   },
   "color": {
@@ -31,6 +39,16 @@
         "primary": {
           "value": "{color.foreground.default}",
           "type": "color"
+        }
+      }
+    }
+  },
+  "spacing": {
+    "paddingX": {
+      "button": {
+        "primary": {
+          "value": "{spacing.40}",
+          "type": "spacing"
         }
       }
     }
