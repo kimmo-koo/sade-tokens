@@ -44,7 +44,7 @@
     }
   },
   "spacing": {
-    "padding_left": {
+    "paddingleft": {
       "button": {
         "primary": {
           "value": "{spacing.40}",
@@ -52,7 +52,7 @@
         }
       }
     },
-    "padding_right": {
+    "paddingright": {
       "button": {
         "primary": {
           "value": "40",
