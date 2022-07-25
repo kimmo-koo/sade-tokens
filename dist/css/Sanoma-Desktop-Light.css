@@ -14,7 +14,7 @@
   --spacing-130: 52px;
   --spacing-140: 56px;
   --spacing-150: 60px;
-  --spacing-paddingleft-button-primary: 16px;
+  --spacing-paddingleft-button-primary: 40px;
   --spacing-paddingright-button-primary: 40px;
   --radii-5: 2px;
   --radii-10: 4px;
@@ -85,9 +85,10 @@
   --sizing-120: 104px;
   --sizing-130: 112px;
   --sizing-140: 120px;
-  --sizing-150: 128px;
-  --sizing-height-button-primary: 40px;
-  --sizing-font-size-button-primary: 21px;
+  --sizing-150: 60px;
+  --sizing-200: 80px;
+  --sizing-height-button-primary: 60px;
+  --sizing-font-size-button-primary: 20px;
   --font-families-message: The Message;
   --font-families-roboto: Roboto;
   --line-heights-10: 20;

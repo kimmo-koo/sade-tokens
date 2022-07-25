@@ -80,7 +80,8 @@
   --sizing-120: 104px;
   --sizing-130: 112px;
   --sizing-140: 120px;
-  --sizing-150: 128px;
+  --sizing-150: 60px;
+  --sizing-200: 80px;
   --font-families-message: The Message;
   --font-families-roboto: Roboto;
   --line-heights-10: 20;
