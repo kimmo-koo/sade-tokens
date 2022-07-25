@@ -61,10 +61,6 @@
   --color-warning-50: #d66c09;
   --color-warning-75: #8a4707;
   --color-brand-is-primary: red;
-  --color-foreground-dark: #08266b;
-  --color-foreground-default: #104bd5;
-  --color-foreground-light: #4e72c6;
-  --color-background-default: #ffffff;
   --sizing-0: 8px;
   --sizing-10: 16px;
   --sizing-20: 24px;
@@ -124,4 +120,8 @@
   --body-100-regular: 400 16px/24 $fontFamilies.roboto;
   --body-100-bold: 700 16px/24 $fontFamilies.roboto;
   --body-100-italic: Italic 16px/24 $fontFamilies.roboto;
+  --semantic-color-foreground-dark: #08266b;
+  --semantic-color-foreground-default: #104bd5;
+  --semantic-color-foreground-light: #4e72c6;
+  --semantic-color-background-default: #ffffff;
 }
