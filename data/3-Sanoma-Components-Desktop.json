@@ -61,6 +61,14 @@
           }
         }
       }
+    },
+    "radii": {
+      "button": {
+        "primary": {
+          "value": "{radii.40}",
+          "type": "borderRadius"
+        }
+      }
     }
   }
 }
