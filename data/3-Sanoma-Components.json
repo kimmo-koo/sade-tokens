@@ -17,6 +17,10 @@
             "default": {
               "value": "{semantic.color.background.cta.default}",
               "type": "color"
+            },
+            "hover": {
+              "value": "{semantic.color.background.cta.hover}",
+              "type": "color"
             }
           }
         },

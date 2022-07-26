@@ -24,6 +24,10 @@
           "default": {
             "value": "{core.color.primary.50}",
             "type": "color"
+          },
+          "hover": {
+            "value": "{core.color.primary.25}",
+            "type": "color"
           }
         }
       },
