@@ -15,7 +15,7 @@
         "button": {
           "primary": {
             "default": {
-              "value": "{semantic.color.foreground.default}",
+              "value": "{semantic.color.background.cta.default}",
               "type": "color"
             }
           }
@@ -31,7 +31,7 @@
         "button": {
           "primary": {
             "default": {
-              "value": "{semantic.color.background.default}",
+              "value": "{semantic.color.text.cta.default}",
               "type": "color"
             }
           }
