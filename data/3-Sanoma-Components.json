@@ -8,14 +8,6 @@
             "type": "sizing"
           }
         }
-      },
-      "fontSize": {
-        "button": {
-          "primary": {
-            "value": "{fontSize.50}",
-            "type": "fontSizes"
-          }
-        }
       }
     },
     "color": {
@@ -73,6 +65,16 @@
         "primary": {
           "value": "{core.radii.40}",
           "type": "borderRadius"
+        }
+      }
+    },
+    "typography": {
+      "fontSize": {
+        "button": {
+          "primary": {
+            "value": "{semantic.typography.fontSize.button.primary}",
+            "type": "fontSizes"
+          }
         }
       }
     }

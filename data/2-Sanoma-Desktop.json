@@ -17,6 +17,16 @@
           }
         }
       }
+    },
+    "typography": {
+      "fontSize": {
+        "button": {
+          "primary": {
+            "value": "{core.typography.fontSize.100}",
+            "type": "fontSizes"
+          }
+        }
+      }
     }
   }
 }
