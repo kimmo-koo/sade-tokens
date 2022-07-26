@@ -172,24 +172,6 @@
         "type": "color"
       }
     },
-    "primary": {
-      "10": {
-        "value": "#e7edfb",
-        "type": "color"
-      },
-      "25": {
-        "value": "#4e72c6",
-        "type": "color"
-      },
-      "50": {
-        "value": "#104bd5",
-        "type": "color"
-      },
-      "75": {
-        "value": "#08266b",
-        "type": "color"
-      }
-    },
     "secondary": {
       "10": {
         "value": "#d7fcf8",
@@ -266,6 +248,28 @@
       "is": {
         "primary": {
           "value": "red",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "core": {
+    "color": {
+      "primary": {
+        "10": {
+          "value": "#e7edfb",
+          "type": "color"
+        },
+        "25": {
+          "value": "#4e72c6",
+          "type": "color"
+        },
+        "50": {
+          "value": "#104bd5",
+          "type": "color"
+        },
+        "75": {
+          "value": "#08266b",
           "type": "color"
         }
       }

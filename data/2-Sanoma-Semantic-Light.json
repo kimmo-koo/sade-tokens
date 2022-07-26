@@ -2,16 +2,16 @@
   "semantic": {
     "color": {
       "foreground": {
-        "dark": {
-          "value": "{color.primary.75}",
+        "accent": {
+          "value": "{core.color.primary.75}",
           "type": "color"
         },
         "default": {
-          "value": "{color.primary.50}",
+          "value": "{core.color.primary.50}",
           "type": "color"
         },
-        "light": {
-          "value": "{color.primary.25}",
+        "subdued": {
+          "value": "{core.color.primary.25}",
           "type": "color"
         }
       },
