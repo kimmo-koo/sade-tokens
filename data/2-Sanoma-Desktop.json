@@ -1,0 +1,32 @@
+{
+  "semantic": {
+    "spacing": {
+      "paddingleft": {
+        "button": {
+          "primary": {
+            "value": "{sizing.100}",
+            "type": "sizing"
+          }
+        }
+      },
+      "paddingRight": {
+        "button": {
+          "primary": {
+            "value": "{sizing.100}",
+            "type": "sizing"
+          }
+        }
+      }
+    },
+    "typography": {
+      "fontSize": {
+        "button": {
+          "primary": {
+            "value": "{core.typography.fontSize.100}",
+            "type": "fontSizes"
+          }
+        }
+      }
+    }
+  }
+}
