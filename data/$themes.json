@@ -5,7 +5,6 @@
     "selectedTokenSets": {
       "1-Sanoma-Core": "source",
       "2-Sanoma-Semantic-Light": "source",
-      "3-Sanoma-Components-Mobile": "disabled",
       "3-Sanoma-Components": "enabled",
       "2-Sanoma-Desktop": "source",
       "2-Sanoma-Semantic-Dark": "disabled"
@@ -18,7 +17,6 @@
     "selectedTokenSets": {
       "1-Sanoma-Core": "source",
       "2-Sanoma-Semantic-Light": "disabled",
-      "3-Sanoma-Components-Mobile": "disabled",
       "3-Sanoma-Components": "enabled",
       "2-Sanoma-Desktop": "source",
       "2-Sanoma-Semantic-Dark": "source"
