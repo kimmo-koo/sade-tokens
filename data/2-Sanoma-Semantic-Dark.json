@@ -1,0 +1,26 @@
+{
+  "semantic": {
+    "color": {
+      "foreground": {
+        "accent": {
+          "value": "{core.color.primary.75}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{core.color.primary.50}",
+          "type": "color"
+        },
+        "subdued": {
+          "value": "{core.color.primary.25}",
+          "type": "color"
+        }
+      },
+      "background": {
+        "default": {
+          "value": "{color.greyscale.90}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
