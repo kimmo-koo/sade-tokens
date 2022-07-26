@@ -61,42 +61,72 @@
       "type": "spacing"
     }
   },
-  "radii": {
-    "5": {
-      "value": "2",
-      "type": "borderRadius"
+  "core": {
+    "radii": {
+      "5": {
+        "value": "2",
+        "type": "borderRadius"
+      },
+      "10": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "20": {
+        "value": "8",
+        "type": "borderRadius"
+      },
+      "30": {
+        "value": "12",
+        "type": "borderRadius"
+      },
+      "40": {
+        "value": "16",
+        "type": "borderRadius"
+      },
+      "50": {
+        "value": "20",
+        "type": "borderRadius"
+      },
+      "60": {
+        "value": "24",
+        "type": "borderRadius"
+      },
+      "80": {
+        "value": "32",
+        "type": "borderRadius"
+      },
+      "100": {
+        "value": "40",
+        "type": "borderRadius"
+      }
     },
-    "10": {
-      "value": "4",
-      "type": "borderRadius"
+    "color": {
+      "primary": {
+        "10": {
+          "value": "#e7edfb",
+          "type": "color"
+        },
+        "25": {
+          "value": "#4e72c6",
+          "type": "color"
+        },
+        "50": {
+          "value": "#104bd5",
+          "type": "color"
+        },
+        "75": {
+          "value": "#08266b",
+          "type": "color"
+        }
+      }
     },
-    "20": {
-      "value": "8",
-      "type": "borderRadius"
-    },
-    "30": {
-      "value": "12",
-      "type": "borderRadius"
-    },
-    "40": {
-      "value": "16",
-      "type": "borderRadius"
-    },
-    "50": {
-      "value": "20",
-      "type": "borderRadius"
-    },
-    "60": {
-      "value": "24",
-      "type": "borderRadius"
-    },
-    "80": {
-      "value": "32",
-      "type": "borderRadius"
-    },
-    "100": {
-      "value": "40",
-      "type": "borderRadius"
+    "typography": {
+      "fontSize": {
+        "100": {
+          "value": "16",
+          "type": "fontSizes"
+        }
+      }
     }
   },
   "border": {
@@ -248,28 +278,6 @@
       "is": {
         "primary": {
           "value": "red",
-          "type": "color"
-        }
-      }
-    }
-  },
-  "core": {
-    "color": {
-      "primary": {
-        "10": {
-          "value": "#e7edfb",
-          "type": "color"
-        },
-        "25": {
-          "value": "#4e72c6",
-          "type": "color"
-        },
-        "50": {
-          "value": "#104bd5",
-          "type": "color"
-        },
-        "75": {
-          "value": "#08266b",
           "type": "color"
         }
       }
