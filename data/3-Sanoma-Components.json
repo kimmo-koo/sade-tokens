@@ -22,24 +22,30 @@
       "background": {
         "button": {
           "primary": {
-            "value": "{semantic.color.foreground.default}",
-            "type": "color"
+            "default": {
+              "value": "{semantic.color.foreground.default}",
+              "type": "color"
+            }
           }
         }
       },
       "text": {
         "button": {
           "primary": {
-            "value": "{semantic.color.background.default}",
-            "type": "color"
+            "default": {
+              "value": "{semantic.color.background.default}",
+              "type": "color"
+            }
           }
         }
       },
       "border": {
         "button": {
           "primary": {
-            "value": "{semantic.color.foreground.default}",
-            "type": "color"
+            "default": {
+              "value": "{semantic.color.foreground.default}",
+              "type": "color"
+            }
           }
         }
       }
@@ -48,15 +54,15 @@
       "paddingleft": {
         "button": {
           "primary": {
-            "value": "{spacing.100}",
+            "value": "{semantic.spacing.paddingleft.button.primary}",
             "type": "spacing"
           }
         }
       },
-      "paddingright": {
+      "paddingRight": {
         "button": {
           "primary": {
-            "value": "{spacing.100}",
+            "value": "{semantic.spacing.paddingRight.button.primary}",
             "type": "spacing"
           }
         }
