@@ -93,6 +93,8 @@
   --semantic-color-foreground-default: #104bd5;
   --semantic-color-foreground-subdued: #4e72c6;
   --semantic-color-background-default: #ffffff;
+  --semantic-color-background-cta-default: #104bd5;
+  --semantic-color-text-cta-default: #e7edfb;
   --semantic-spacing-paddingleft-button-primary: 40px;
   --semantic-spacing-padding-right-button-primary: 40px;
   --semantic-typography-font-size-button-primary: 16px;

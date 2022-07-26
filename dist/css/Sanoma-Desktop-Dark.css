@@ -105,4 +105,6 @@
   --semantic-color-foreground-default: #08266b;
   --semantic-color-foreground-subdued: #4e72c6;
   --semantic-color-background-default: #191919;
+  --semantic-color-background-cta-default: #4e72c6;
+  --semantic-color-text-cta-default: #e7edfb;
 }
