@@ -90,9 +90,9 @@
   --letter-spacing-20: 0.0005em;
   --letter-spacing-30: 0.0006em;
   --component-sizing-height-button-primary: 60px;
-  --component-color-background-button-primary-default: #104bd5;
+  --component-color-background-button-primary-default: #08266b;
   --component-color-text-button-primary-default: #191919;
-  --component-color-border-button-primary-default: #104bd5;
+  --component-color-border-button-primary-default: #08266b;
   --component-spacing-paddingleft-button-primary: 40px;
   --component-spacing-padding-right-button-primary: 40px;
   --component-radii-button-primary: 16px;
@@ -101,7 +101,7 @@
   --semantic-spacing-padding-right-button-primary: 40px;
   --semantic-typography-font-size-button-primary: 16px;
   --semantic-color-foreground-accent: #08266b;
-  --semantic-color-foreground-default: #104bd5;
+  --semantic-color-foreground-default: #08266b;
   --semantic-color-foreground-subdued: #4e72c6;
   --semantic-color-background-default: #191919;
 }
