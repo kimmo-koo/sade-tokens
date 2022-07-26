@@ -131,4 +131,5 @@
   --component-color-border-button-primary: #104bd5;
   --component-spacing-paddingleft-button-primary: 40px;
   --component-spacing-paddingright-button-primary: 40px;
+  --component-radii-button-primary: 16px;
 }
