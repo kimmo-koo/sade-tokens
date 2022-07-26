@@ -19,6 +19,12 @@
               "type": "color"
             }
           }
+        },
+        "page": {
+          "default": {
+            "value": "{semantic.color.background.default}",
+            "type": "color"
+          }
         }
       },
       "text": {
