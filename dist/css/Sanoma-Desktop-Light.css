@@ -94,12 +94,14 @@
   --semantic-color-foreground-subdued: #4e72c6;
   --semantic-color-background-default: #ffffff;
   --semantic-color-background-cta-default: #104bd5;
+  --semantic-color-background-cta-hover: #4e72c6;
   --semantic-color-text-cta-default: #e7edfb;
   --semantic-spacing-paddingleft-button-primary: 40px;
   --semantic-spacing-padding-right-button-primary: 40px;
   --semantic-typography-font-size-button-primary: 16px;
   --component-sizing-height-button-primary: 60px;
   --component-color-background-button-primary-default: #104bd5;
+  --component-color-background-button-primary-hover: #4e72c6;
   --component-color-background-page-default: #ffffff;
   --component-color-text-button-primary-default: #e7edfb;
   --component-color-border-button-primary-default: #104bd5;
