@@ -19,6 +19,20 @@
         "default": {
           "value": "{color.greyscale.0}",
           "type": "color"
+        },
+        "cta": {
+          "default": {
+            "value": "{core.color.primary.50}",
+            "type": "color"
+          }
+        }
+      },
+      "text": {
+        "cta": {
+          "default": {
+            "value": "{core.color.primary.10}",
+            "type": "color"
+          }
         }
       }
     }
